@@ -3,4 +3,4 @@ f2 Contest-1
 
 
 
-https://jayeshshsh.github.io/f2-Contest2/
+https://jayeshshsh.github.io/F2-Contest-1/
